@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sistemaestoque">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/sistemaestoque.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
